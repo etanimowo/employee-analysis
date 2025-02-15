@@ -1,4 +1,4 @@
-# Employee Dataset Analysis and Dashboard
+# Employee Dataset Analysis
 
 # Overview
 This repository contains an employee dataset analysis project, where Power BI and Power Query were utilized to clean, transform, and visualize data. The focus was on improving data quality and generating insights for employee metrics such as tenure, performance, and hiring trends.
